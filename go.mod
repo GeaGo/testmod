@@ -1,1 +1,1 @@
-module github.com/GeaGo/testmod
+module github.com/GeaGo/testmod/v2
